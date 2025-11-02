@@ -12,18 +12,21 @@
     margin: 0 0 25px;
 }
 
-h2, h3 {
-    color: #1E3730;
+.content {
+    width: 60%;    
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+    text-align: justify;
+    color: #222222;
+}
+
+.heading {
+    color: #1F6040;
 }
 
 a{
     color: #1F6040;
-}
-
-
-li {
-    margin-bottom: 2px;
-    color: #1E3730;
 }
 
 img {
@@ -33,14 +36,6 @@ img {
     margin-top: -25px;
     margin-left: auto;
     margin-right: auto;
-}
-
-.content {
-    width: 60%;    
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.5;
-    text-align: justify;
 }
 
 .back-link {
